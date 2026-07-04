@@ -75,6 +75,7 @@ Passionate about building scalable, high-performance web applications with moder
 ## 🎨 Frontend Technologies
 
 - React.js
+- Next.js
 - TypeScript
 - JavaScript
 - Redux Toolkit
