@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Irfad</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Irfad </h1>
 
 <h3 align="center">
 Full Stack Software Engineer | MERN Stack Developer | React • Node.js • NestJS • TypeScript
