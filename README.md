@@ -150,7 +150,7 @@ Passionate about building scalable, high-performance web applications with moder
 
 ## 💡 Quote
 
-> **"Code is more than syntax—it's about solving real problems, creating value, and continuously learning. "**
+> **"Code is more than syntax—it's about solving real problems, creating value, and continuously learning."**
 
 ---
 
