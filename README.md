@@ -136,7 +136,7 @@ Passionate about building scalable, high-performance web applications with moder
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohammed-irfad-b51750212/)">
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohammed-irfad-b51750212)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
