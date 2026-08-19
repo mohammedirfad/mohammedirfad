@@ -69,7 +69,6 @@ Passionate about building scalable, high-performance web applications with moder
 - Prisma ORM
 - Mongoose
 - Microservices
-
 ---
 
 ## 🎨 Frontend Technologies
