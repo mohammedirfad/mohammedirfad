@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Irfad </h1>
 
 <h3 align="center">
-Full Stack Software Engineer | MERN Stack Developer | React • Node.js • NestJS • TypeScript
+Full Stack Software Engineer | MERN Stack Developer | React • Node.js • NextJS • TypeScript
 </h3>
 
 <p align="center">
